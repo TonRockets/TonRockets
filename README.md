@@ -14,7 +14,7 @@ I'm studying Information Systems 🎓 from Universidade Estacio 🏛. I'm a youn
 - 🚀 &nbsp; I’m currently learning React Native and GoLang.
 - 👾 &nbsp; Fun fact: Interface and type it's different 😅.
 - 📫 &nbsp; How to reach me: wellington.pereira@al.forsoft.org.br.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/TonRockets/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/TonRockets/TonRockets/blob/main/CV-WELLINGTON-FULLSTACK.pdf).
 
 ### My Absolute Favorites:
 
