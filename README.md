@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/HS_ToN/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ton.rockets/)
 
-### Glad to see you here! &nbsp; ![]
+### Glad to see you here! &nbsp; !
 
 I'm studying Information Systems 🎓 from Universidade Estacio 🏛. I'm a young leader at Sara Church in Rio de Janeiro, Brazil ✨. I'm passionate to technologies and work with it. A fullstack developer is better than frontend or backend developer, right? That's it, because of this I am a Fullstack developer in lovly with frontend and backend in the same time 💻. I'm currently working at university as pos graduate monitor.
 
